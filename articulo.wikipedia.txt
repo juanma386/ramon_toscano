@@ -16,7 +16,7 @@
 |imagen                 = [[File:Ramon Toscano.jpg|thumb|Ramon Toscano]]
 |tamaño                 = 200px
 |descripción            = 
-|educación              = 
+|educación              = [[Instituto_de_Educación_Secundaria]]
 |ocupación              = 
 |años activo            = 2013-actualidad
 |premios                = 
