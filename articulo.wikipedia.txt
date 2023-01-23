@@ -9,7 +9,6 @@
 {{Ficha de persona
 |nombre                 =  Ramón Toscano
 |nombre completo        =  Ramón Toscano Antequera <!-- Añade aquí el nombre de nacimiento-->
-|otros nombres          = 
 |fecha de nacimiento    = {{fecha|12|12|1986}}
 |lugar de nacimiento    = [[Girona]], [[España]]
 |nacionalidad           = [[Nacionalidad_española]]
