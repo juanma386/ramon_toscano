@@ -10,7 +10,7 @@
 |nombre                 = Nombre de la persona en cuestión
 |nombre completo        = <!-- Añade aquí el nombre de nacimiento-->
 |otros nombres          = 
-|fecha de nacimiento    = {{fecha|12|12|2012}}
+|fecha de nacimiento    = {{fecha|12|12|1986}}
 |lugar de nacimiento    = [[Ciudad]], [[País]]
 |fecha de fallecimiento = 
 |lugar de fallecimiento = 
@@ -24,7 +24,7 @@
 |años activo            = 2013-actualidad
 |premios                = 
 }}
-'''Nombre de la persona en cuestión''' (nacido como ''Nombre de nacimiento'', el 12 de enero de 1234 en Ciudad, [[Mundo]]) es una personalidad del medio popular nacional. Es conocido(a) por liderar, dirigir, asumir una institución, empresa internacional o algo similar.
+'''Nombre de la persona en cuestión''' (nacido como ''Nombre de nacimiento'', el 12 de diciembre de 1986 en Ciudad, [[Mundo]]) es una personalidad del medio popular nacional. Es conocido(a) por liderar, dirigir, asumir una institución, empresa internacional o algo similar.
 
 ==Reseña biográfica==
 Describe el texto sobre la vida de la persona. Puedes reemplazar la sección si fuera necesario, describir según el tiempo, los integrantes, sucesos, lo que tengas en mente. Sigue este ejemplo para crear otras secciones.
