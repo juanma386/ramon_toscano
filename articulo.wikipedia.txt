@@ -14,7 +14,7 @@
 |lugar de nacimiento    = [[Girona]], [[España]]
 |fecha de fallecimiento = 
 |lugar de fallecimiento = 
-|nacionalidad           = [[Mundo]]
+|nacionalidad           = [[Nacionalidad_española]]
 |imagen                 = 
 |tamaño                 = 200px
 |descripción            = 
