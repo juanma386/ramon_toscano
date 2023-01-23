@@ -1,0 +1,55 @@
+
+<!--Esta nota contiene algunas 📆instrucciones.
+(1) Para mejorar tu redacción, lee las sugerencias que te explicamos en el PASO ANTERIOR.
+(2) Para CITAR usa el icono 🔖 y rellena la información.
+(3) 📡Continúa leyendo: https://es.wikipedia.org/wiki/WP:EV
+(*) Revisa la estructura: https://es.wikipedia.org/wiki/WP:ACA/GR
+(*) Documentación de la ficha: https://es.wikipedia.org/wiki/Plantilla:Ficha_de_persona
+(*) Puedes cambiar a una ficha adecuada: https://es.wikipedia.org/wiki/Plantilla:Ficha_de_político -->
+{{Ficha de persona
+|nombre                 = Nombre de la persona en cuestión
+|nombre completo        = <!-- Añade aquí el nombre de nacimiento-->
+|otros nombres          = 
+|fecha de nacimiento    = {{fecha|12|12|2012}}
+|lugar de nacimiento    = [[Ciudad]], [[País]]
+|fecha de fallecimiento = 
+|lugar de fallecimiento = 
+|nacionalidad           = [[Mundo]]
+|imagen                 = 
+|tamaño                 = 200px
+|descripción            = 
+|educación              = 
+|alma máter             = 
+|ocupación              = 
+|años activo            = 2013-actualidad
+|premios                = 
+}}
+'''Nombre de la persona en cuestión''' (nacido como ''Nombre de nacimiento'', el 12 de enero de 1234 en Ciudad, [[Mundo]]) es una personalidad del medio popular nacional. Es conocido(a) por liderar, dirigir, asumir una institución, empresa internacional o algo similar.
+
+==Reseña biográfica==
+Describe el texto sobre la vida de la persona. Puedes reemplazar la sección si fuera necesario, describir según el tiempo, los integrantes, sucesos, lo que tengas en mente. Sigue este ejemplo para crear otras secciones.
+
+Otros trabajos ajenos a la labor principal deben estar descrito en la sección "Vida personal".
+
+== Distinciones ==
+*''Mención'' (premio, año)
+*''Otra mención'' (premio, año)
+*...
+
+<!--🚫No edites estas líneas. La lista de fuentes que CITASTE estarán en la sección "Referencias".-->
+== Referencias ==
+{{listaref}}
+<!--🚫No edites estas líneas-->
+
+== Bibliografía ==
+<!-- Añade los 📚libros siguiendo el ejemplo de abajo (autor, título, año, editorial). Si no tienes un libro borra lo de abajo. -->
+<!-- Como ejemplo: * {{cita libro| autor = Geach, P.T.| título = Reason and Argument| año = 1976| editorial = Oxford}} -->
+
+== Enlaces externos ==
+<!--❗ Esta sección es para páginas web oficiales. Si no existen, bórralo abajo.-->
+* [http://www.ejemplo.com Sitio web oficial].
+
+<!--No borres esta línea-->{{NF}}<!--Gracias-->
+<!--📍Elimina {{categorizar}} y añade el nombre de categoría (desde las propiedades) o código wiki. Deben estar entre [[ ]] y en plural.
+✏Ejemplos: [[Categoría:Abogados]] [[Categoría:Presidentes de Francia]] categoriza esta página en Abogados y Presidentes de Francia. -->
+{{categorizar}}
