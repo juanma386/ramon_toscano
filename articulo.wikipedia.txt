@@ -12,14 +12,11 @@
 |otros nombres          = 
 |fecha de nacimiento    = {{fecha|12|12|1986}}
 |lugar de nacimiento    = [[Girona]], [[España]]
-|fecha de fallecimiento = 
-|lugar de fallecimiento = 
 |nacionalidad           = [[Nacionalidad_española]]
-|imagen                 = 
+|imagen                 = [[File:Ramon Toscano.jpg|thumb|Ramon Toscano]]
 |tamaño                 = 200px
 |descripción            = 
 |educación              = 
-|alma máter             = 
 |ocupación              = 
 |años activo            = 2013-actualidad
 |premios                = 
