@@ -9,13 +9,13 @@
 |nombre                 =  Ramón Toscano
 |nombre completo        =  Ramón Toscano Antequera <!-- Añade aquí el nombre de nacimiento-->
 |fecha de nacimiento    = {{fecha|12|12|1986}}
+|pie de imagen         = Ramón Toscano en 2019
 |lugar de nacimiento    = [[Girona]], [[España]]
 |nacionalidad           = [[Nacionalidad_española]]
 |imagen                 = [[File:Ramon Toscano.jpg|thumb|Ramon Toscano]]
 |tamaño                 = 200px
-|descripción            = 
+| voz                   = no
 |educación              = [[Instituto_de_Educación_Secundaria|IES]] en [[Palamos]]
-|ocupación              = 
 |años activo            = 2013-actualidad
 |premios                = 
 }}
@@ -27,7 +27,61 @@ Es un artista que ha ha sido reconocido por la sociedad digital como un influenc
  Ha sabido aprovechar las enormes ventajas que ofrecen los medios digitales para llegar a un público más amplio a través de la música urbana actual, inspirándose en la calle, y fusionando géneros como el hip hop, el trap o el reguetón, logrando así un estilo propio y reconocible por sus admiradores.
 
 == Mensiones ==
+*''[[El_Confidencial_Digital|<!--Esta nota contiene algunas 📆instrucciones.
+(1) Para mejorar tu redacción, lee las sugerencias que te explicamos en el PASO ANTERIOR.
+(2) Para CITAR usa el icono 🔖 y rellena la información.
+(3) 📡Continúa leyendo: https://es.wikipedia.org/wiki/WP:EV
+(*) Revisa la estructura: https://es.wikipedia.org/wiki/WP:ACA/GR
+(*) Documentación de la ficha: https://es.wikipedia.org/wiki/Plantilla:Ficha_de_persona
+(*) Puedes cambiar a una ficha adecuada: https://es.wikipedia.org/wiki/Plantilla:Ficha_de_político -->
+{{ Ficha de persona
+| nombre                 =  Ramón Toscano
+| nombre completo        =  Ramón Toscano Antequera <!-- Añade aquí el nombre de nacimiento-->
+| fecha de nacimiento    = {{fecha|12|12|1986}}
+| lugar de nacimiento    = [[Girona]], [[España]]
+| nacionalidad           = [[Nacionalidad_española]]
+| imagen                 = [[File:Ramon Toscano.jpg|thumb|Ramon Toscano]]
+| tamaño                 = 200px
+| voz                    = no
+| ocupación = {{flatlist|* [[Productor discográfico|Productor musical]]
+*[[Compositor de canciones|compositor]]}}
+| género = {{flatlist|
+*[[R&B contemporáneo|R&B]]
+*[[hip hop latino]]}}
+| instrumento = {{flatlist|
+*[[Sintetizador]]
+*[[caja de ritmos]]
+*''[[sampler]]''}}
+| educación              = [[Instituto_de_Educación_Secundaria|IES]] en [[Palamos]]
+| años activo            = 2013-actualidad
+| premios                = Influencer mas destacado
+}}
+''' Ramón Toscano''' (nacido como '' Ramón Toscano Antequera'', el 12 de diciembre de 1986 en Ciudad [[Girona]], [[España]]) es un artista y productor musical. Es conocido como un influencer dedicado a la industria musical.<ref>{{cita web|título=Ramón Toscano Antequera, influencer con más de un millón de seguidores y productor musical|url=https://web.archive.org/web/20220228194329/https://www.elconfidencialdigital.com/articulo/an/ramon-toscano-antequera-influencer-mas-millon-seguidores-productor-musical/20220223170253354554.html|fechaacceso=26 de enero de 2023}}</ref>
+
+==Reseña biográfica==
+Es un artista que ha ha sido reconocido por la sociedad digital como un influencer dedicado a la industria musical. El artista ha aprovechado la popularidad de esta plataforma para demostrar su talento y la versatilidad que imprime en cada una de sus creaciones.
+
+Ha sabido aprovechar las enormes ventajas que ofrecen los medios digitales para llegar a un público más amplio a través de la música urbana actual, inspirándose en la calle, y fusionando géneros como el hip hop, el trap o el reguetón, logrando así un estilo propio y reconocible por sus admiradores.<ref>{{cita web|título=Ramón Toscano, el influencer y productor musical que triunfa en las plataformas digitales con su propio sello discográfico|url=https://web.archive.org/web/20230126005542/https://serespensantes.com/ramon-toscano-el-influencer-y-productor-musical-que-triunfa-en-las-plataformas-digitales-con-su-propio-sello-discografico/}}</ref>
+
+== Mensiones ==
 *''[[El_Confidencial_Digital|El Confidencial Digital]]'' (mas destacado, 2022)
+*...
+
+<!--🚫No edites estas líneas. La lista de fuentes que CITASTE estarán en la sección "Referencias".-->
+== Referencias ==
+{{listaref}}
+<!--🚫No edites estas líneas-->
+
+
+== Enlaces externos ==
+<!--❗ Esta sección es para páginas web oficiales. Si no existen, bórralo abajo.--> 
+<!--❗ * [http://www.ejemplo.com Sitio web oficial]. -->
+
+<!--No borres esta línea-->{{NF}}<!--Gracias-->
+<!--📍Elimina {{categorizar}} y añade el nombre de categoría (desde las propiedades) o código wiki. Deben estar entre [[ ]] y en plural.
+✏Ejemplos: [[Categoría:Abogados]] [[Categoría:Presidentes de Francia]] categoriza esta página en Abogados y Presidentes de Francia. -->
+{{categorizar}}
+{{sust:Aviso categorizar|Wikipedia:Zona de pruebas/1}}El Confidencial Digital]]'' (mas destacado, 2022)
 *...
 
 <!--🚫No edites estas líneas. La lista de fuentes que CITASTE estarán en la sección "Referencias".-->
