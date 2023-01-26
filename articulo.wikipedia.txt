@@ -1,4 +1,3 @@
-
 <!--Esta nota contiene algunas 📆instrucciones.
 (1) Para mejorar tu redacción, lee las sugerencias que te explicamos en el PASO ANTERIOR.
 (2) Para CITAR usa el icono 🔖 y rellena la información.
@@ -20,16 +19,15 @@
 |años activo            = 2013-actualidad
 |premios                = 
 }}
-''' Ramón Toscano''' (nacido como '' Ramón Toscano Antequera'', el 12 de diciembre de 1986 en Ciudad [[Girona]], [[España]]) es una personalidad del medio popular nacional. Es conocido(a) por liderar, dirigir, asumir una institución, empresa internacional o algo similar.
+''' Ramón Toscano''' (nacido como '' Ramón Toscano Antequera'', el 12 de diciembre de 1986 en Ciudad [[Girona]], [[España]]) es un artista y productor musical. Es conocido(a) por componer musica audio esenica.
 
 ==Reseña biográfica==
-Describe el texto sobre la vida de la persona. Puedes reemplazar la sección si fuera necesario, describir según el tiempo, los integrantes, sucesos, lo que tengas en mente. Sigue este ejemplo para crear otras secciones.
+Es un artista que ha ha sido reconocido por la sociedad digital como un influencer dedicado a la industria musical. El artista ha aprovechado la popularidad de esta plataforma para demostrar su talento y la versatilidad que imprime en cada una de sus creaciones.
 
-Otros trabajos ajenos a la labor principal deben estar descrito en la sección "Vida personal".
+ Ha sabido aprovechar las enormes ventajas que ofrecen los medios digitales para llegar a un público más amplio a través de la música urbana actual, inspirándose en la calle, y fusionando géneros como el hip hop, el trap o el reguetón, logrando así un estilo propio y reconocible por sus admiradores.
 
-== Distinciones ==
-*''Mención'' (premio, año)
-*''Otra mención'' (premio, año)
+== Mensiones ==
+*''[[El_Confidencial_Digital|El Confidencial Digital]]'' (mas destacado, 2022)
 *...
 
 <!--🚫No edites estas líneas. La lista de fuentes que CITASTE estarán en la sección "Referencias".-->
@@ -37,9 +35,6 @@ Otros trabajos ajenos a la labor principal deben estar descrito en la sección "
 {{listaref}}
 <!--🚫No edites estas líneas-->
 
-== Bibliografía ==
-<!-- Añade los 📚libros siguiendo el ejemplo de abajo (autor, título, año, editorial). Si no tienes un libro borra lo de abajo. -->
-<!-- Como ejemplo: * {{cita libro| autor = Geach, P.T.| título = Reason and Argument| año = 1976| editorial = Oxford}} -->
 
 == Enlaces externos ==
 <!--❗ Esta sección es para páginas web oficiales. Si no existen, bórralo abajo.--> 
