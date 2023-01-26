@@ -41,7 +41,72 @@ Otros trabajos ajenos a la labor principal deben estar descrito en la sección "
 *''Otra mención'' (premio, año)
 *...
 
-<!--🚫No edites estas líneas. La lista de fuentes que CITASTE estarán en la sección "Referencias".--><!--Esta nota contiene algunas 📆instrucciones.
+<!--🚫No edites estas líneas. La lista de fuentes que CITASTE estarán en la sección "Referencias".--><!--Esta nota contiene algunas 📆instrucciones.<!--Esta nota contiene algunas 📆instrucciones.
+(1) Para mejorar tu redacción, lee las sugerencias que te explicamos en el PASO ANTERIOR.
+(2) Para CITAR usa el icono 🔖 y rellena la información.
+(3) 📡Continúa leyendo: https://es.wikipedia.org/wiki/WP:EV
+(*) Revisa la estructura: https://es.wikipedia.org/wiki/WP:ACA/GR
+(*) Documentación de la ficha: https://es.wikipedia.org/wiki/Plantilla:Ficha_de_persona
+(*) Puedes cambiar a una ficha adecuada: https://es.wikipedia.org/wiki/Plantilla:Ficha_de_político -->
+{{Ficha de persona
+| nombre                 =  Ramón Toscano
+| nombre completo        =  Ramón Toscano Antequera <!-- Añade aquí el nombre de nacimiento-->
+| fecha de nacimiento    = {{fecha|12|12|1986}}
+| pie de imagen         = Ramón Toscano en 2019
+| lugar de nacimiento    = [[Girona]], [[España]]
+| nacionalidad           = [[Nacionalidad_española|Español]]
+| imagen                 = [[File:Ramon Toscano.jpg|thumb|Ramon Toscano]]
+| tamaño                 = 200px
+| voz                   = no
+| ocupación = {{flatlist|* [[Productor discográfico|Productor musical]]
+*[[Compositor de canciones|compositor]]}}
+| género = {{flatlist|
+*[[reguetón]]
+*[[R&B contemporáneo|R&B]]
+*[[hip hop latino]]}}
+| instrumento = {{flatlist|
+*[[Sintetizador]]
+*[[caja de ritmos]]
+*''[[sampler]]''}}
+| educación              = [[Instituto_de_Educación_Secundaria|IES]] en [[Palamos]]
+| años activo            = 2013-actualidad
+| premios                = Artista Influencer destacado 2022 <ref>{{cita web|título=Ramón Toscano Antequera, influencer con más de un millón de seguidores y productor musical|url=https://web.archive.org/web/20220228194329/https://www.elconfidencialdigital.com/articulo/an/ramon-toscano-antequera-influencer-mas-millon-seguidores-productor-musical/20220223170253354554.html|fechaacceso=26 de enero de 2023}}</ref>
+}}
+''' Ramón Toscano''' (nacido como '' Ramón Toscano Antequera'', el 12 de diciembre de 1986 en Ciudad [[Girona]], [[España]]) es un artista y productor musical. Es conocido como un influencer dedicado a la industria musical.<ref>{{cita web|título=Ramón Toscano Antequera, influencer con más de un millón de seguidores y productor musical|url=https://web.archive.org/web/20220228194329/https://www.elconfidencialdigital.com/articulo/an/ramon-toscano-antequera-influencer-mas-millon-seguidores-productor-musical/20220223170253354554.html|fechaacceso=26 de enero de 2023}}</ref>
+
+==Reseña biográfica==
+Es un artista que ha sido reconocido por la sociedad digital como un influencer dedicado a la industria musical. El artista ha aprovechado la popularidad de [[instagram]] dicha plataforma que le permitio a traves de historias conseguir ser seguido por un numero importante de seguidores.
+
+Ha sabido aprovechar los medios digitales para llegar a un público objetivo a través de la música urbana actual, inspirado en la calle, mesclando géneros como el hip hop, el trap o el reguetón, a logrando un estilo propio y es reconocible por sus seguidores.<ref>{{cita web|título=Ramón Toscano, el influencer y productor musical que triunfa en las plataformas digitales con su propio sello discográfico|url=https://web.archive.org/web/20230126005542/https://serespensantes.com/ramon-toscano-el-influencer-y-productor-musical-que-triunfa-en-las-plataformas-digitales-con-su-propio-sello-discografico/}}</ref>
+
+
+== Mensiones ==
+*''[[El_Confidencial_Digital|El Confidencial Digital]]'' (Artista Influencer destacado, 2022) <ref>{{cita web|título=Ramón Toscano Antequera, influencer con más de un millón de seguidores y productor musical|url=https://web.archive.org/web/20220228194329/https://www.elconfidencialdigital.com/articulo/an/ramon-toscano-antequera-influencer-mas-millon-seguidores-productor-musical/20220223170253354554.html|fechaacceso=26 de enero de 2023}}</ref>
+
+
+
+
+<!--🚫No edites estas líneas. La lista de fuentes que CITASTE estarán en la sección "Referencias".-->
+== Referencias ==
+{{listaref|2}}
+<!--🚫No edites estas líneas-->
+
+== Enlaces externos ==
+<!--❗ Esta sección es para páginas web oficiales. Si no existen, bórralo abajo.-->
+*{{spotify|3rQZycbl14MwAMB4Ior9Jf}}
+*{{instagram|ramontoscanoa}}
+* [http://ramontoscano.com/ Ramón Toscano (Web Oficial)]
+*[https://www.youtube.com/c/Ram%C3%B3nToscano RamonToscano] en [[YouTube]]
+
+<!--No borres esta línea-->{{NF|1986||Ramón Toscano (artista)}}<!--Gracias-->
+<!--📍Elimina {{categorizar}} y añade el nombre de categoría (desde las propiedades) o código wiki. Deben estar entre [[ ]] y en plural.
+✏Ejemplos: [[Categoría:Abogados]] [[Categoría:Presidentes de Francia]] categoriza esta página en Abogados y Presidentes de Francia. -->
+
+[[Categoría:Productores discográficos de España]]
+[[Categoría:Productores de reguetón]]
+[[Categoría:Productores de hip hop]]
+[[Categoría:Españoles]]
+
 (1) Para mejorar tu redacción, lee las sugerencias que te explicamos en el PASO ANTERIOR.
 (2) Para CITAR usa el icono 🔖 y rellena la información.
 (3) 📡Continúa leyendo: https://es.wikipedia.org/wiki/WP:EV
