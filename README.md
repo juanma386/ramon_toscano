@@ -8,4 +8,6 @@ Wikidata: [Wikidata Ramón Toscano Antequera](https://www.wikidata.org/wiki/Q116
 
 ISNI:     [0000 0005 0984 1663](https://isni.oclc.org/xslt/DB=1.2/CMD?ACT=SRCH&IKT=8006&TRM=ISN%3A0000%200005%200984%201663 "ISNI Ramón Toscano")
 
+WikiMedia: [Imagen Ramón Toscano](https://commons.wikimedia.org/wiki/File:Ramon_Toscano.jpg "Ramón Toscano Antequera")
+
 5 Escritos, los mismos requieren ser rellenados con comentarios finales.
