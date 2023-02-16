@@ -10,4 +10,4 @@ ISNI:     [0000 0005 0984 1663](https://isni.oclc.org/xslt/DB=1.2/CMD?ACT=SRCH&I
 
 WikiMedia: [Imagen Ramón Toscano](https://commons.wikimedia.org/wiki/File:Ramon_Toscano.jpg "Ramón Toscano Antequera")
 
-5 Escritos, los mismos requieren ser rellenados con comentarios finales.
+2 Escritos para Wikipedia y 5 Escritos parciales, los mismos requieren ser rellenados con comentarios finales.
