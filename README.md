@@ -7,3 +7,5 @@ Asunto del articulo: **Ramón Toscano Antequera**
 Wikidata: [Wikidata Ramón Toscano Antequera](https://www.wikidata.org/wiki/Q116440843 "Wikidata Ramón Toscano Antequera")
 
 ISNI:     [0000 0005 0984 1663](https://isni.oclc.org/xslt/DB=1.2/CMD?ACT=SRCH&IKT=8006&TRM=ISN%3A0000%200005%200984%201663 "ISNI Ramón Toscano")
+
+5 Escritos, los mismos requieren ser rellenados con comentarios finales.
