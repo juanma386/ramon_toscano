@@ -1,0 +1,69 @@
+<!--Esta nota contiene algunas 📆instrucciones.
+(1) Para mejorar tu redacción, lee las sugerencias que te explicamos en el PASO ANTERIOR.
+(2) Para CITAR usa el icono 🔖 y rellena la información.
+(3) 📡Continúa leyendo: https://es.wikipedia.org/wiki/WP:EV
+(*) Revisa la estructura: https://es.wikipedia.org/wiki/WP:ACA/GR
+(*) Documentación de la ficha: https://es.wikipedia.org/wiki/Plantilla:Ficha_de_persona
+(*) Puedes cambiar a una ficha adecuada: https://es.wikipedia.org/wiki/Plantilla:Ficha_de_político -->
+{{Ficha de persona
+|cabecera                   = Compositor
+| nombre                    = Ramón Toscano
+|imagen                     = [[File:Ramon Toscano.jpg|thumb|Ramon Toscano]]
+|tamaño de imagen           = 200px
+| pie de imagen             = Ramón Toscano en 2019
+| nombre completo           = Ramón Toscano Antequera 
+|nombre de nacimiento       = Ramón Toscano Antequera 
+|nombre nativo              = Ramón Toscano Antequera 
+|apodo                      = Toscano
+| fecha de nacimiento       = {{fecha|12|12|1986}}
+|lugar de nacimiento        = [[Girona]], [[España]]
+|residencia                 = [[Girona]], [[España]]
+|nacionalidad               = [[Nacionalidad_española|Español]]
+|ciudadanía                 = [[Nacionalidad_española|Española]]
+|educación                  = Estudios de [[Técnico Superior]] en [[Sonido]] y [[Composición_musical|Producción Musical]] en el [[Instituto Tamaba]]
+| ocupación                 = {{flatlist|* [[Productor discográfico|Productor musical]]
+*[[Compositor de canciones|compositor]]}}
+|años activo                = 2021-actualidad
+| voz                       = no
+| género = {{flatlist| [[reguetón]] [[R&B contemporáneo|R&B]] [[hip hop latino]]}}
+| instrumento = {{flatlist|[[Sintetizador]] [[caja de ritmos]]''[[sampler]]''}}
+|wikidata                   = Q116440843
+}}
+
+''' Ramón Toscano''' (nacido como '' Ramón Toscano Antequera'', el 12 de diciembre de 1986 en Ciudad [[Girona]], [[España]]) es un compositor, productor musical considerado un artista conocido en redes sociales.
+
+==Reseña biográfica==
+Rámon Toscano estudió en el [[Instituto Tamaba]] de [[CABA]] en [[Argentina]], la carrera de técnico superior en sonido y producción musical a través de su [[campus virtual]] en el [[2017]] donde entre las composiciones musicales que presenta el productor en sus comienzos donde ha compuesto una serie de sencillos, como punto de partida ha realizado la composición inicial ''[[Anexo:Discografía de Ramón Toscano#Sencillos|Sonido Duro]]'' durante el [[2021]]. Actualmente algunos medios de comunicación describen su trabajo como como compositor de generos inspirados en la calle, combinando otros como el [[hip hop]], el [[trap latino]] o el [[reguetón]], según sus seguidores. <ref>{{cita web|título=Generos musicales de Ramón Toscano|url=https://web.archive.org/web/20220629185136/https://autonomico.elconfidencialdigital.com/articulo/an/ramon-toscano-influencer-que-apuesta-carrera-escena-musical/20220224080317077714.html}}</ref>
+
+== Discografía ==
+{{AP|Anexo:Discografía de Ramón Toscano Antequera|l1=Discografía de Ramón Toscano}}
+=== Ediciones EP ===
+* "''[[Anexo:Discografía de Ramón Toscano Antequera#Premium|EP Premium]]''" ([[2022]])
+** "''[[Anexo:Discografía de Ramón Toscano Antequera#Premium|Solo por Ti]]''" ([[2022]])
+** "''[[Anexo:Discografía de Ramón Toscano Antequera#Premium|Disco Party]]''" ([[2022]])
+** "''[[Anexo:Discografía de Ramón Toscano Antequera#Premium|Tus Besos]]''" ([[2022]])
+** "''[[Anexo:Discografía de Ramón Toscano Antequera#Premium|Sin Tu Amor]]''" ([[2022]])
+
+=== Sencillos ===
+* "''[[Anexo:Discografía de Ramón Toscano Antequera#Sencillos|''Sonido Duro'']]''" ([[2021]])
+* "''[[Anexo:Discografía de Ramón Toscano Antequera#Sencillos|''Be there'']]''"  ([[2022]])
+* "''[[Anexo:Discografía de Ramón Toscano Antequera#Sencillos|''Be there for you'']]''"  ([[2022]])
+* "''[[Anexo:Discografía de Ramón Toscano Antequera#Sencillos|''Tu Amor'']]''"  ([[2022]])
+
+<!--🚫No edites estas líneas. La lista de fuentes que CITASTE estarán en la sección "Referencias".-->
+== Referencias ==
+{{listaref|2}}
+<!--🚫No edites estas líneas-->
+
+== Enlaces externos ==
+<!--❗ Esta sección es para páginas web oficiales. Si no existen, bórralo abajo.-->
+
+
+<!--No borres esta línea-->{{NF|1986||Ramón Toscano (compositor))}}<!--Gracias-->
+<!--📍Elimina {{categorizar}} y añade el nombre de categoría (desde las propiedades) o código wiki. Deben estar entre [[ ]] y en plural.
+✏Ejemplos: [[Categoría:Abogados]] [[Categoría:Presidentes de Francia]] categoriza esta página en Abogados y Presidentes de Francia. -->
+
+[[Categoría:Productores discográficos de España]]
+[[Categoría:Productores de reguetón]]
+[[Categoría:Españoles]]
+
